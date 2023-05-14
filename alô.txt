@@ -1,5 +1,7 @@
 Não se esqueçam de sempre usar o git status para qualquer dúvida de como está o conteúdo atual do trabalho.
-Git pull (na master) caso precise puxar alterações. 
+
+Sempre executem o pull para garantir a mesclagem das alterações mais recentes:
+git pull origin master
 
 
 ================================
