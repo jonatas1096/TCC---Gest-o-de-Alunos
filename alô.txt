@@ -1,0 +1,12 @@
+Não se esqueçam de sempre usar o git status para qualquer dúvida de como está o conteúdo atual do trabalho.
+Git pull (na master) caso precise puxar alterações. 
+
+
+================================
+Após modificarem algo:
+
+git add .
+git commit -m "qualquer coisa"
+git push -u origin master
+
+================================
